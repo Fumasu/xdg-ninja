@@ -1,0 +1,10 @@
+{
+    "files": [
+        {
+            "path": "$HOME/.codelite",
+            "movable": true,
+            "help": "Alias codelite to use a custom configuration location:\n\n```bash\nalias codelite=\"codelite --datadir=$XDG_CONFIG_HOME/codelite\"\n```\n"
+        }
+    ],
+    "name": "codelite"
+}
